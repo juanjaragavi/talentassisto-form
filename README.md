@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/waldosmuts/multi-step-form)
+- Solution URL: [GitHub Repo](https://github.com/waldosmuts/talentassisto-form)
 - Live Site URL: [Live Preview](https://wuts-msf.vercel.app/info)
 
 ## My process
