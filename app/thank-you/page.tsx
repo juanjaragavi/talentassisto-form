@@ -15,7 +15,7 @@ export default function ThankYouPage() {
       <p className="text-cool-gray text-center mt-2">
         Thanks for confirming your subscription! We hope you have fun using our
         platform. If you ever need support, please feel free to email us at
-        support@loremgaming.com.
+        info@talentassisto.com.
       </p>
     </section>
   );

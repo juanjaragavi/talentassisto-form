@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     colors: {
       // Primary
-      'marine-blue': 'hsl(213, 96%, 18%)',
+      'marine-blue': 'hsl(187, 59%, 55%)',
       'purplish-blue': 'hsl(243, 100%, 62%)',
       'pastel-blue': 'hsl(228, 100%, 84%)',
       'light-blue': 'hsl(206, 94%, 87%)',
