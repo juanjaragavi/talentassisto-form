@@ -7,8 +7,8 @@ import '@/stylesheets/globals.css';
 import '@/stylesheets/fonts.css';
 
 export const metadata = {
-  title: 'Multi-step Form | Frontend Mentor',
-  description: 'Created with Next.js, React Hook Form and Tailwind',
+  title: 'TalentAssisto | Your Smart Right Hand',
+  description: 'TalentAssisto makes it easy to create generative AI-powered HR agents optimized for HR tasks.',
 };
 
 export default function RootLayout({
